@@ -6,7 +6,7 @@ public class Main {
         // weight - Вес в килограммах
 
         System.out.println("Индекс массы тела:");
-        System.out.println(service.calculate(1.55, 65));
+        System.out.println(service.calculate(1.87, 98));
 
     }
 }
